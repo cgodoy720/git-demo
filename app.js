@@ -1,3 +1,3 @@
 // Hello world
 
-const colors = ['red', 'green', 'blue']
+const colors = ['red', 'green', 'blue', 'banana']
